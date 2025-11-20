@@ -1,0 +1,9 @@
+# macOS Finder junk
+.DS_Store
+
+# Tableau temp / backup / autosave files
+~$*
+.~*
+*.twb.autosave
+*.twbx.autosave
+*.bak
